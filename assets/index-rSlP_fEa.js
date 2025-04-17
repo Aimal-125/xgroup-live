@@ -1,0 +1,1 @@
+import{j as e}from"./index-B7EDHShO.js";const s=()=>e.jsx(e.Fragment,{children:e.jsx("div",{className:"h-[70vh] flex justify-center items-center",children:e.jsx("div",{className:"flex flex-col items-center gap-3",children:e.jsx("p",{className:"text-3xl font-bold text-center",children:"You don't have permission to access this page."})})})});export{s as default};

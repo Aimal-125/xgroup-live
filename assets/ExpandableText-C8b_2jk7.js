@@ -1,0 +1,1 @@
+import{r as a,j as i}from"./index-B7EDHShO.js";const p=({text:s,startLength:t=6,endLength:n=4})=>{const[e,o]=a.useState(!1),l=()=>{o(!e)},r=s.slice(0,t),c=s.slice(-n);return i.jsx("span",{onClick:l,className:"cursor-pointer text-blue-500 whitespace-normal break-all ",style:{display:"inline-block",maxWidth:"100%"},children:e?s:`${r}...${c}`})},d=a.memo(p);export{d as E};
